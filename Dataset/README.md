@@ -22,6 +22,7 @@ All values were provided at the time of the loan application.
 | current_house_years	| Number of years in the current residence |	int |
 | city	| City of residence	| string |
 | state	| State of residence	| string |
+
 The risk_flag indicates whether there has been a default in the past or not.
 
 ### Acknowledgements
