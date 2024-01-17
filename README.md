@@ -1,8 +1,6 @@
 # Final-Project
-Hi, welcome to Final Project! Sekarang saatnya bagi kamu mengimplementasikan pemahaman yang kamu dapatkan di sesi kelas, ke suatu kasus yang nyata. Hal ini bertujuan untuk memperdalam skill dalam bidang data science guna mencapai pembelajaran yang maksimal. 
+Hi, selamat datang di Final Project! Saat ini, kami sebagai tim siap untuk mengimplementasikan pemahaman yang kami peroleh selama sesi kelas ke dalam suatu kasus dunia nyata. Tujuan kami adalah untuk mendalami keterampilan di bidang data science guna mencapai pembelajaran yang optimal.
 
-Dalam final project ini, kamu akan merasakan vibes menjadi seorang data scientist sungguhan. Kamu akan mengolah suatu data demi menghasilkan rekomendasi bisnis yang memiliki dampak untuk meningkatkan performa perusahaan di suatu bidang industri. 
+Dalam final project ini, kami akan merasakan atmosfer menjadi seorang data scientist profesional. Tugas kami adalah mengolah data untuk menghasilkan rekomendasi bisnis yang berdampak positif dalam meningkatkan performa perusahaan di industri tertentu.
 
-Lakukan dengan sungguh-sungguh momen final project ini, untuk mengasah kemampuan-mu demi mempersiapkan karir yang lebih baik! Kami yakin final project ini akan menjadi salah satu portofolio yang sangat bernilai untuk personal branding kamu.
-
-Are you ready to take this project?
+Mari kita lakukan final project ini dengan sepenuh hati, karena hal ini akan membantu kami mengasah kemampuan dan persiapan untuk karir yang lebih baik di masa depan! Kami yakin bahwa final project ini akan menjadi salah satu portofolio berharga untuk memperkuat personal branding kami.
