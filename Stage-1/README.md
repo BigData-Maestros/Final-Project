@@ -1,13 +1,19 @@
 # Final-Project-Stage1
-## EDA, Insight & Visualization
+## Insight Summary
 
-Data yang sudah diinvestigasi pada tahap sebelumnya, masih belum cukup untuk dijadikan bahan untuk membuat model pembelajaran mesin. Oleh karena itu pada tahap ini, bertujuan untuk lebih dalam memahami karakteristik dari data. Dataset akan diinvestigasi lagi untuk mendapatkan insight yang dapat menunjang pembuatan model pembelajaran mesin ataupun insight dalam perspektif bisnis. Berikut adalah hal-hal yang harus dicapai dalam tahap ini.
+* Berdasarkan analisis yang telah dilakukan didapatkan bahwa pengajuan kredit paling banyak pada kategori income middle (3292924 – 6671351 Rupee) tetapi rentang gaji yang mempunyai resiko paling tinggi berada di rentang gaji high dan low.
+* Apabila dilihat dari rentang usia yang mengajukan kredit terlihat paling banyak di kategori adult (30 – 60 tahun) dan kategori adult mempunyai tingkat resiko yang paling tinggi.
+* Jika dilihat berdasarkan pengalaman kerja, pengajuan kredit banyak dilakukan pada tingkat senior level dan di level ini resiko kredit juga ditemukan paling banyak.
+* Jika dilihat dari lamanya bekerja untuk pekerjaan saat ini didominasi dibawah 10 tahun dengan resiko kredit terbesar di rentang 5-10 tahun bekerja di perusahaan tersebut.
+* Jenis pekerjaan yang banyak mengajuan kredit dan mempunyai resiko kredit paling besar yaitu di kategori profesi engineer tech.
+* Apabila dilihat dari jenis kategori wilayah, pengajuan kredit banyak dilakukan pada wilayah Rural Area begitupun resiko kreditnya mempunyai resiko yang tinggi di wilayah ini.
+* Apabila dilihat berdasarkan kategori zona state yang banyak melakukan pengajuan berada pada zona south_zone tetapi tingkat resiko 
+paling tinggi di temukan diwilayah east_zone.
 
-### Data Exploration
-Langkah pertama yang harus kamu lakukan adalah eksplorasi data yaitu memahami definisi dari berbagai attributes-nya, supaya dapat mengecek apakah ada data yang tidak konsisten. Selanjutnya menentukan target output olahan datanya, supaya tujuan dari pengolahan data jelas arahnya mau kemana.
+## Business Recommendation
 
-### Exploratory Data Analysis
-Dalam EDA, fokus pada pendeteksian data bermasalah, serta insight yang dapat memberikan manfaat dalam membuat model pembelajaran mesin (seperti yang sudah diajarkan di kelas). Misalnya, mengecek sebaran nilai dari setiap feature yang dimiliki. Kemudian, cek juga distribusinya terhadap variabel target. Lalu, tuliskan kesimpulan apa yang didapat dari pola yang dihasilkan.
+* Bank dapat melakukan peningkatan pemasaran pada customer dengan level income middle hingga high untuk semua rentang usia tetapi perlu di lihat juga profil dari nasabah tersebut sehingga dapat meminimalkan resiko.
+* Dilihat berdasarkan pengalaman kerja customer, kategori yang memiliki kapabilibilitas kredit yang baik yaitu dengan pengalaman kerja diatas 5 tahun dengan tingkat lama bekerja untuk pekerjaan saat ini yaitu diatas 5 tahun tetapi perlu di lihat juga profil dari nasabah tersebut sehingga dapat meminimalkan resiko. 
+* Meningkatkan pemasaran pada kategori profesi yang masing rendah.
+* Meningkatkan pemasaran untuk area urban hingga metropolitan dan untuk semua kategori zona state.
 
-### Business Insight and Visualization
-Lain halnya pada tahap EDA yang bertujuan untuk mendapatkan insight guna menunjang model yang baik, pada tahap ini bertujuan untuk mendapatkan insight guna menentukan rekomendasi dalam perspektif bisnis. Carilah insight-insight yang relevan terhadap masalah yang ingin diselesaikan (jangan hanya terpaku pada hasil EDA, tapi pikirkan, dengan data yang dimiliki, kira-kira insight apa yang bisa diperoleh yang akan bermanfaat bagi bisnis). Kemudian buatlah visualisasi untuk memudahkan user dalam melihat insight yang disajikan. Lalu jelaskan interpretasi atau kesimpulan dari visualisasi tersebut. Setiap insight yang diperoleh, tentukan rekomendasi apa yang bisa diberikan sebagai ‘action’-nya.
